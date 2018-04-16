@@ -12,7 +12,7 @@ const staticAssets = [
 'sw.js',
 'images/logo.ico',
 'images/pic1.jpg',
-'images/banner.png',
+'banner.png',
 'images/logo.png'
 ];
 
